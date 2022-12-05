@@ -3,10 +3,10 @@
 "COURSE": "CAU_OOP_2022"
 "ASSIGNMENT": "ASSIGNMENT_01"
 
-"ID": "20041052"
+"ID": "20220338"
 "FILES":
-    - "cau_oop_2022/assignment_01/mathlib.cpp"
-    - "cau_oop_2022/assignment_01/mathlib.h"
+    - "C:\Users\ashle\source\repos\mathlib.cpp"
+    - "C:\Users\ashle\source\repos\mathlib.h"
 "PROBLEMS": 
     - "PROBLEM_01A"
     - "PROBLEM_01B"
